@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm James McAleer</h1>
-<h3 align="center">High School student and developer</h3>
 
 - I’m currently working on **gym[AI]ssisant**
 
