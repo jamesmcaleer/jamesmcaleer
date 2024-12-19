@@ -1,4 +1,59 @@
-<h1 align="center">James McAleer</h1>
+# Hi there, I'm James McAleer! 👋
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+🎓 **Binghamton University, Class of 2027**
+- **Major**: Computer Science  
+- **GPA**: 3.93/4.00
+
+---
+
+## 🌟 **Experience & Projects**
+
+### **Professional Experience**
+- 🧠 **Software/AI Developer Intern, Adelphi University**  
+  Developed an AI chatbot for 5,000+ students to answer campus-related queries using NLP.
+
+- 🧑‍🏫 **Computer Science Instructor, The Coder School**  
+  Taught programming basics and game development to 40+ students using Python and Scratch.
+
+### **Projects**
+- 🚥 **[3, 2, 1!](http://play321.net)**  
+  A two-player word game with over 7,000 games played. Built with AWS, WebSockets, and Node.js.
+
+- 🏀 **[Blind Five](https://blindfivesports.com)**  
+  Daily sports ranking game with 2,000+ users. Used Puppeteer for web scraping and hosted on a Raspberry Pi.
+
+- 📈 **nightTrader**  
+  Email notification system for stock volatility analysis. Utilized Python, SQLite, and Yahoo Finance.
+
+---
+
+## 🔧 **Technical Skills**
+- **Languages**: Python, Java, JavaScript, C, C++, C#, MAL
+- **Frameworks/Tools**: Node.js, React.js, Docker, PyTorch, scikit-learn
+- **Platforms**: AWS, Linux, Git, Xcode, Vim
+  
+---
+
+## 🌱 **Leadership & Research**
+- 🌐 **Association of Computing Machinery (ACM)**  
+  Currently developing a roommate matching website for Binghamton University students.
+
+- 🫀 **First Year Research Immersion (FRI)**  
+  Leading a team to improve remote heart rate detection using ML and CNNs.
+
+---
+
+## 🚀 **Cool Sites I’ve Built**
+- [3, 2, 1!](http://play321.net) - Collaborative Two-Player Online Word Game
+- [Blind Five](https://blindfivesports.com) - Daily Sports Ranking Game
+- [BeginnerToBCI](https://jamesmcaleer.github.io/BeginnerToBCI/) - Jupyter notebook blog about building a strong foundation in ML to apply to Brain-Computer-Interfaces (BCI)
+
+---
+
+## 🌐 **Connect with Me**
+- [LinkedIn](https://www.linkedin.com/in/jamesmcaleer)  
+
+---
+
+Thanks for stopping by! Feel free to check out my work and connect with me! 😄
+
