@@ -46,7 +46,7 @@
 ## 🚀 **Cool Sites I’ve Built**
 - [3, 2, 1!](http://play321.net) - Collaborative Two-Player Online Word Game
 - [Blind Five](https://blindfivesports.com) - Daily Sports Ranking Game
-- [BeginnerToBCI](https://jamesmcaleer.github.io/BeginnerToBCI/) - Jupyter notebook blog about building a strong foundation in ML to apply to Brain-Computer-Interfaces (BCI)
+- [BCI: Signals To Interface](https://jamesmcaleer.github.io/SignalsToInterface/) - Jupyter notebook blog about building a strong foundation in ML to apply to Brain-Computer-Interfaces (BCI)
 
 ---
 
