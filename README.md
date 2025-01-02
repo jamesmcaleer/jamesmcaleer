@@ -1,4 +1,4 @@
-# Hi there, I'm James McAleer! 👋
+# Hi, I'm James McAleer! 👋
 
 🎓 **Binghamton University, Class of 2027**
 - **Major**: Computer Science  
@@ -25,13 +25,6 @@
 - 📈 **nightTrader**  
   Email notification system for stock volatility analysis. Utilized Python, SQLite, and Yahoo Finance.
 
----
-
-## 🔧 **Technical Skills**
-- **Languages**: Python, Java, JavaScript, C, C++, C#, MAL
-- **Frameworks/Tools**: Node.js, React.js, Docker, PyTorch, scikit-learn
-- **Platforms**: AWS, Linux, Git, Xcode, Vim
-  
 ---
 
 ## 🌱 **Leadership & Research**
