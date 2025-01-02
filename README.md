@@ -41,19 +41,3 @@
 - 🫀 **First Year Research Immersion (FRI)**  
   Leading a team to improve remote heart rate detection using ML and CNNs.
 
----
-
-## 🚀 **Cool Sites I’ve Built**
-- [3, 2, 1!](http://play321.net) - Collaborative Two-Player Online Word Game
-- [Blind Five](https://blindfivesports.com) - Daily Sports Ranking Game
-- [BCI: Signals To Interface](https://jamesmcaleer.github.io/SignalsToInterface/) - Jupyter notebook blog about building a strong foundation in ML to apply to Brain-Computer-Interfaces (BCI)
-
----
-
-## 🌐 **Connect with Me**
-- [LinkedIn](https://www.linkedin.com/in/jamesmcaleer)  
-
----
-
-Thanks for stopping by! Feel free to check out my work and connect with me! 😄
-
