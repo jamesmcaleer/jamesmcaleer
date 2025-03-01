@@ -22,8 +22,8 @@
 - 🏀 **[Blind Five](https://blindfivesports.com)**  
   Daily sports ranking game with 2,000+ users. Used Puppeteer for web scraping and hosted on a Raspberry Pi.
 
-- 📈 **nightTrader**  
-  Email notification system for stock volatility analysis. Utilized Python, SQLite, and Yahoo Finance.
+- 🧠 **[Inner Voice](https://www.linkedin.com/feed/update/urn:li:activity:7286010756205064193/)**  
+  Speech insight tool powered by your EEG brainwaves and emotions. Built with EMOTIV Cortex API (and I library I made).
 
 ---
 
